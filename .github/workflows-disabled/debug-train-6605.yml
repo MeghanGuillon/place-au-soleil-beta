@@ -1,0 +1,19 @@
+name: Diagnostic train 6605 Paris Lyon
+
+on:
+  push:
+    paths:
+      - 'tools/debug_train_6605.py'
+      - '.github/workflows/debug-train-6605.yml'
+  workflow_dispatch:
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Diagnostiquer le trajet
+        run: python tools/debug_train_6605.py
