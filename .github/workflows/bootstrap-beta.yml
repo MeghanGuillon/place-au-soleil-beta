@@ -1,0 +1,29 @@
+name: Archiver la version beta
+
+on:
+  push:
+    paths:
+      - '.github/workflows/bootstrap-beta.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Recuperer le depot beta
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Copier la version actuelle de Place au Soleil
+        run: |
+          git clone --depth 1 --branch main https://github.com/MeghanGuillon/place-au-soleil.git /tmp/place-au-soleil-source
+          find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          tar -C /tmp/place-au-soleil-source --exclude=.git -cf - . | tar -xf -
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Archive la beta avant refonte UI"
+          git push origin main
