@@ -1,0 +1,22 @@
+name: Diagnostic RFN Paris Le Creusot
+
+on:
+  push:
+    paths:
+      - 'tools/debug_pair_paris_creusot.py'
+      - 'tools/test_rfn_bridges.py'
+      - '.github/workflows/debug-paris-creusot.yml'
+  workflow_dispatch:
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Installer les dépendances
+        run: pip install -r scripts/requirements.txt
+      - name: Tester la réparation des jonctions RFN
+        run: python tools/test_rfn_bridges.py
