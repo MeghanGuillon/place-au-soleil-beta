@@ -1,0 +1,27 @@
+name: Prototype routage RFN Paris Rennes
+
+on:
+  push:
+    paths:
+      - 'tools/prototype_rfn_route.py'
+      - '.github/workflows/prototype-rfn-route.yml'
+  workflow_dispatch:
+
+jobs:
+  route:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Calculer le chemin RFN Paris Rennes
+        run: python tools/prototype_rfn_route.py
+
+      - name: Publier le résultat de diagnostic
+        uses: actions/upload-artifact@v4
+        with:
+          name: paris-rennes-rfn-route
+          path: data/debug/paris-rennes-route.json
