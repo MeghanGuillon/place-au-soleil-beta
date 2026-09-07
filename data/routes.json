@@ -1,0 +1,2617 @@
+{
+  "generated_at": "2026-09-04T13:30:47.151989+00:00",
+  "source": "SNCF Open Data — Licence Ouverte Etalab 2.0",
+  "routes": [
+    {
+      "id": "paris-austerlitz-vierzon",
+      "name": "Paris Austerlitz → Vierzon",
+      "shape": [
+        [
+          48.842285,
+          2.364891
+        ],
+        [
+          47.926801,
+          1.906629
+        ],
+        [
+          47.226474,
+          2.059869
+        ]
+      ],
+      "segments": [
+        {
+          "start": {
+            "lat": 48.842285,
+            "lon": 2.364891
+          },
+          "end": {
+            "lat": 47.926801,
+            "lon": 1.906629
+          },
+          "midpoint": {
+            "lat": 48.384542999999994,
+            "lon": 2.13576
+          },
+          "bearing": 198.5605145879416
+        },
+        {
+          "start": {
+            "lat": 47.926801,
+            "lon": 1.906629
+          },
+          "end": {
+            "lat": 47.226474,
+            "lon": 2.059869
+          },
+          "midpoint": {
+            "lat": 47.576637500000004,
+            "lon": 1.9832489999999998
+          },
+          "bearing": 171.54651077783126
+        }
+      ],
+      "geometry_source": "stop_times+stops",
+      "trips": [
+        {
+          "trip_id": "OCESN3605F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87594002:7:1059:20261121",
+          "departure_time": "06:28:00",
+          "arrival_time": "08:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3605F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:1332:20261017",
+          "departure_time": "06:28:00",
+          "arrival_time": "08:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3605F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:1332:20261205",
+          "departure_time": "06:28:00",
+          "arrival_time": "08:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3605F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:1332:20261212",
+          "departure_time": "06:28:00",
+          "arrival_time": "08:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3605F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:1337:20261019",
+          "departure_time": "06:28:00",
+          "arrival_time": "08:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3605F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:1337:20261120",
+          "departure_time": "06:28:00",
+          "arrival_time": "08:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3605F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:1337:20261211",
+          "departure_time": "06:28:00",
+          "arrival_time": "08:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3605F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87613000:10:1212:20261126",
+          "departure_time": "06:28:00",
+          "arrival_time": "08:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3903F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:903:20261010",
+          "departure_time": "07:06:00",
+          "arrival_time": "08:44:00",
+          "duration_min": 98,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3903F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:903:20261204",
+          "departure_time": "07:07:00",
+          "arrival_time": "08:44:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3903F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:903:20261205",
+          "departure_time": "07:07:00",
+          "arrival_time": "08:44:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3903F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:903:20261211",
+          "departure_time": "07:07:00",
+          "arrival_time": "08:44:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3903F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:903:20261212",
+          "departure_time": "07:07:00",
+          "arrival_time": "08:44:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3615F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1211:20261011",
+          "departure_time": "07:20:00",
+          "arrival_time": "09:05:00",
+          "duration_min": 105,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3615F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1211:20261108",
+          "departure_time": "07:27:00",
+          "arrival_time": "09:05:00",
+          "duration_min": 98,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3615F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1211:20261129",
+          "departure_time": "07:27:00",
+          "arrival_time": "09:05:00",
+          "duration_min": 98,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3615F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:7:1204:20261106",
+          "departure_time": "07:28:00",
+          "arrival_time": "09:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3615F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:7:1204:20261211",
+          "departure_time": "07:28:00",
+          "arrival_time": "09:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3615F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:7:1211:20261111",
+          "departure_time": "07:28:00",
+          "arrival_time": "09:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1233:20260925",
+          "departure_time": "07:58:00",
+          "arrival_time": "09:35:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3619F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:14:1532:20261011",
+          "departure_time": "08:24:00",
+          "arrival_time": "10:09:00",
+          "duration_min": 105,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3619F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:14:1532:20261108",
+          "departure_time": "08:24:00",
+          "arrival_time": "10:07:00",
+          "duration_min": 103,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3619F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:14:1532:20261129",
+          "departure_time": "08:24:00",
+          "arrival_time": "10:07:00",
+          "duration_min": 103,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3619F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87613000:11:1414:20261205",
+          "departure_time": "08:26:00",
+          "arrival_time": "10:07:00",
+          "duration_min": 101,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3619F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:14:1532:20261010",
+          "departure_time": "08:27:00",
+          "arrival_time": "10:07:00",
+          "duration_min": 100,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3619F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87594002:8:1259:20260906",
+          "departure_time": "08:28:00",
+          "arrival_time": "10:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3619F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:14:1532:20261031",
+          "departure_time": "08:28:00",
+          "arrival_time": "10:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3619F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:14:1532:20261107",
+          "departure_time": "08:28:00",
+          "arrival_time": "10:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3619F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:14:1532:20261209",
+          "departure_time": "08:28:00",
+          "arrival_time": "10:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3619F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:14:1532:20261212",
+          "departure_time": "08:28:00",
+          "arrival_time": "10:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3619F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87613000:11:1414:20261126",
+          "departure_time": "08:28:00",
+          "arrival_time": "10:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1355:20261019",
+          "departure_time": "09:06:00",
+          "arrival_time": "10:44:00",
+          "duration_min": 98,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1355:20261029",
+          "departure_time": "09:06:00",
+          "arrival_time": "10:44:00",
+          "duration_min": 98,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3623F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:6:1355:20261031",
+          "departure_time": "09:07:00",
+          "arrival_time": "10:43:00",
+          "duration_min": 96,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1354:20261125",
+          "departure_time": "09:09:00",
+          "arrival_time": "10:38:00",
+          "duration_min": 89,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1357:20261102",
+          "departure_time": "09:21:00",
+          "arrival_time": "11:00:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1356:20261104",
+          "departure_time": "09:22:00",
+          "arrival_time": "10:56:00",
+          "duration_min": 94,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1407:20261110",
+          "departure_time": "09:22:00",
+          "arrival_time": "11:07:00",
+          "duration_min": 105,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3619F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:14:1632:20261101",
+          "departure_time": "09:26:00",
+          "arrival_time": "11:09:00",
+          "duration_min": 103,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1402:20261205",
+          "departure_time": "09:28:00",
+          "arrival_time": "11:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1503:20261011",
+          "departure_time": "10:21:00",
+          "arrival_time": "12:05:00",
+          "duration_min": 104,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1503:20261010",
+          "departure_time": "10:26:00",
+          "arrival_time": "12:05:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1455:20261101",
+          "departure_time": "10:28:00",
+          "arrival_time": "12:00:00",
+          "duration_min": 92,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1503:20261025",
+          "departure_time": "10:28:00",
+          "arrival_time": "12:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1503:20261031",
+          "departure_time": "10:28:00",
+          "arrival_time": "12:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1503:20261107",
+          "departure_time": "10:28:00",
+          "arrival_time": "12:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1503:20261108",
+          "departure_time": "10:28:00",
+          "arrival_time": "12:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1503:20261211",
+          "departure_time": "10:28:00",
+          "arrival_time": "12:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3625F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:1503:20261212",
+          "departure_time": "10:28:00",
+          "arrival_time": "12:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3629F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:7:1603:20261011",
+          "departure_time": "11:19:00",
+          "arrival_time": "13:07:00",
+          "duration_min": 108,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3629F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:7:1603:20261108",
+          "departure_time": "11:27:00",
+          "arrival_time": "13:07:00",
+          "duration_min": 100,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3629F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:7:1603:20261129",
+          "departure_time": "11:27:00",
+          "arrival_time": "13:07:00",
+          "duration_min": 100,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3911F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:6:1406:20261209",
+          "departure_time": "11:45:00",
+          "arrival_time": "13:47:00",
+          "duration_min": 122,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3911F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:1404:20261011",
+          "departure_time": "11:51:00",
+          "arrival_time": "13:45:00",
+          "duration_min": 114,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3911F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:1404:20261006",
+          "departure_time": "12:07:00",
+          "arrival_time": "13:44:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3911F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:1404:20261212",
+          "departure_time": "12:07:00",
+          "arrival_time": "13:45:00",
+          "duration_min": 98,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3911F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:1405:20261009",
+          "departure_time": "12:07:00",
+          "arrival_time": "13:46:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3911F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:1408:20261106",
+          "departure_time": "12:07:00",
+          "arrival_time": "13:48:00",
+          "duration_min": 101,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3911F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:1408:20261130",
+          "departure_time": "12:07:00",
+          "arrival_time": "13:49:00",
+          "duration_min": 102,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3911F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:1408:20261201",
+          "departure_time": "12:07:00",
+          "arrival_time": "13:49:00",
+          "duration_min": 102,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3911F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:1411:20261204",
+          "departure_time": "12:07:00",
+          "arrival_time": "13:52:00",
+          "duration_min": 105,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3911F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:1411:20261210",
+          "departure_time": "12:07:00",
+          "arrival_time": "13:52:00",
+          "duration_min": 105,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3911F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:1415:20261211",
+          "departure_time": "12:15:00",
+          "arrival_time": "13:56:00",
+          "duration_min": 101,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3911F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:1436:20260928",
+          "departure_time": "12:15:00",
+          "arrival_time": "14:17:00",
+          "duration_min": 122,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3911F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:1436:20261027",
+          "departure_time": "12:15:00",
+          "arrival_time": "14:16:00",
+          "duration_min": 121,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3911F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87576207:5:1412:20261120",
+          "departure_time": "12:16:00",
+          "arrival_time": "13:52:00",
+          "duration_min": 96,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3635F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87613000:10:1814:20261010",
+          "departure_time": "12:25:00",
+          "arrival_time": "14:07:00",
+          "duration_min": 102,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3635F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87613000:10:1814:20261108",
+          "departure_time": "12:27:00",
+          "arrival_time": "14:05:00",
+          "duration_min": 98,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3635F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87613000:10:1814:20261210",
+          "departure_time": "12:27:00",
+          "arrival_time": "14:05:00",
+          "duration_min": 98,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3635F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87613000:10:1814:20261212",
+          "departure_time": "12:27:00",
+          "arrival_time": "14:05:00",
+          "duration_min": 98,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3635F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87594002:7:1813:20261028",
+          "departure_time": "13:26:00",
+          "arrival_time": "15:02:00",
+          "duration_min": 96,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3635F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87613000:10:1931:20261029",
+          "departure_time": "13:26:00",
+          "arrival_time": "15:02:00",
+          "duration_min": 96,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3635F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87594002:7:1848:20260915",
+          "departure_time": "14:12:00",
+          "arrival_time": "15:50:00",
+          "duration_min": 98,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3645F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:2132:20261011",
+          "departure_time": "14:22:00",
+          "arrival_time": "16:07:00",
+          "duration_min": 105,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3645F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:2132:20260915",
+          "departure_time": "14:28:00",
+          "arrival_time": "16:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3645F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:2132:20261019",
+          "departure_time": "14:28:00",
+          "arrival_time": "16:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3645F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:2132:20261101",
+          "departure_time": "14:28:00",
+          "arrival_time": "16:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3645F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:2132:20261103",
+          "departure_time": "14:28:00",
+          "arrival_time": "16:09:00",
+          "duration_min": 101,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3645F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:2132:20261108",
+          "departure_time": "14:28:00",
+          "arrival_time": "16:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3645F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:2132:20261110",
+          "departure_time": "14:28:00",
+          "arrival_time": "16:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3645F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:2132:20261210",
+          "departure_time": "14:28:00",
+          "arrival_time": "16:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3645F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:2132:20261212",
+          "departure_time": "14:28:00",
+          "arrival_time": "16:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3645F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87613000:10:2012:20261125",
+          "departure_time": "14:28:00",
+          "arrival_time": "16:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3645F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87613000:10:2012:20261126",
+          "departure_time": "14:28:00",
+          "arrival_time": "16:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3635F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87594002:7:2010:20261105",
+          "departure_time": "15:06:00",
+          "arrival_time": "16:40:00",
+          "duration_min": 94,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3635F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87594002:7:2009:20261125",
+          "departure_time": "15:25:00",
+          "arrival_time": "17:01:00",
+          "duration_min": 96,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3635F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87594002:7:2010:20261110",
+          "departure_time": "15:26:00",
+          "arrival_time": "17:01:00",
+          "duration_min": 95,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3635F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87594002:7:2023:20260925",
+          "departure_time": "15:27:00",
+          "arrival_time": "17:14:00",
+          "duration_min": 107,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3645F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87611004:13:2236:20261206",
+          "departure_time": "15:28:00",
+          "arrival_time": "17:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3645F1187_F:IC:FR:Line::276892b7-b6aa-4a9b-a989-62f4abea526b::87547000:87613000:10:2107:20261122",
+          "departure_time": "15:28:00",
+          "arrival_time": "17:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3653F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:6:2011:20261030",
+          "departure_time": "15:28:00",
+          "arrival_time": "17:01:00",
+          "duration_min": 93,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3655F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:2105:20261010",
+          "departure_time": "16:21:00",
+          "arrival_time": "18:03:00",
+          "duration_min": 102,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3655F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:2105:20261011",
+          "departure_time": "16:25:00",
+          "arrival_time": "18:03:00",
+          "duration_min": 98,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3655F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:2105:20261108",
+          "departure_time": "16:28:00",
+          "arrival_time": "18:03:00",
+          "duration_min": 95,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3655F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:2105:20261212",
+          "departure_time": "16:28:00",
+          "arrival_time": "18:03:00",
+          "duration_min": 95,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3913F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:1945:20261011",
+          "departure_time": "17:06:00",
+          "arrival_time": "18:44:00",
+          "duration_min": 98,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3913F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:1944:20260904",
+          "departure_time": "17:07:00",
+          "arrival_time": "18:44:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3913F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:1944:20260925",
+          "departure_time": "17:07:00",
+          "arrival_time": "18:44:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3913F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:1944:20260927",
+          "departure_time": "17:07:00",
+          "arrival_time": "18:44:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3913F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:1945:20261129",
+          "departure_time": "17:07:00",
+          "arrival_time": "18:44:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3913F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:1945:20261204",
+          "departure_time": "17:07:00",
+          "arrival_time": "18:44:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3913F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:1945:20261206",
+          "departure_time": "17:07:00",
+          "arrival_time": "18:44:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3913F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:1945:20261211",
+          "departure_time": "17:07:00",
+          "arrival_time": "18:44:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3665F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87613000:10:2313:20261010",
+          "departure_time": "17:10:00",
+          "arrival_time": "19:05:00",
+          "duration_min": 115,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3665F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87613000:10:2313:20261011",
+          "departure_time": "17:25:00",
+          "arrival_time": "19:05:00",
+          "duration_min": 100,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3665F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87594002:7:2200:20261106",
+          "departure_time": "17:28:00",
+          "arrival_time": "19:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3665F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87594002:7:2200:20261210",
+          "departure_time": "17:28:00",
+          "arrival_time": "19:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3665F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87594002:7:2200:20261211",
+          "departure_time": "17:28:00",
+          "arrival_time": "19:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3665F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87613000:10:2313:20261108",
+          "departure_time": "17:28:00",
+          "arrival_time": "19:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3665F1187_F:IC:FR:Line::8c3b6920-35c9-4b67-b79d-434a4226e338::87547000:87613000:10:2313:20261212",
+          "departure_time": "17:28:00",
+          "arrival_time": "19:05:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3675F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:2304:20261009",
+          "departure_time": "18:27:00",
+          "arrival_time": "20:05:00",
+          "duration_min": 98,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3675F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:2304:20261106",
+          "departure_time": "18:27:00",
+          "arrival_time": "20:06:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3675F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:8:2304:20261211",
+          "departure_time": "18:27:00",
+          "arrival_time": "20:06:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3917F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:2146:20261010",
+          "departure_time": "18:56:00",
+          "arrival_time": "20:46:00",
+          "duration_min": 110,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3917F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:2145:20260925",
+          "departure_time": "19:07:00",
+          "arrival_time": "20:46:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3917F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:2145:20260927",
+          "departure_time": "19:07:00",
+          "arrival_time": "20:46:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3917F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:2146:20261204",
+          "departure_time": "19:07:00",
+          "arrival_time": "20:46:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3917F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:2146:20261206",
+          "departure_time": "19:07:00",
+          "arrival_time": "20:46:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3917F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:2146:20261211",
+          "departure_time": "19:07:00",
+          "arrival_time": "20:46:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3917F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:2146:20261212",
+          "departure_time": "19:07:00",
+          "arrival_time": "20:46:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3685F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:7:2401:20261011",
+          "departure_time": "19:25:00",
+          "arrival_time": "21:07:00",
+          "duration_min": 102,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3685F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:7:2409:20261010",
+          "departure_time": "19:25:00",
+          "arrival_time": "21:16:00",
+          "duration_min": 111,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3685F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:7:2401:20261108",
+          "departure_time": "19:28:00",
+          "arrival_time": "21:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3685F1187_F:IC:FR:Line::fc526a2c-d3e0-4ae0-b8cd-782f83e16cdd::87547000:87594002:7:2402:20261212",
+          "departure_time": "19:28:00",
+          "arrival_time": "21:07:00",
+          "duration_min": 99,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3923F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:2348:20261011",
+          "departure_time": "20:57:00",
+          "arrival_time": "22:48:00",
+          "duration_min": 111,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3923F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:2338:20260927",
+          "departure_time": "21:00:00",
+          "arrival_time": "22:40:00",
+          "duration_min": 100,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3923F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:2339:20261129",
+          "departure_time": "21:00:00",
+          "arrival_time": "22:40:00",
+          "duration_min": 100,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3923F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:2339:20261206",
+          "departure_time": "21:00:00",
+          "arrival_time": "22:40:00",
+          "duration_min": 100,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3923F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:2338:20261111",
+          "departure_time": "21:02:00",
+          "arrival_time": "22:39:00",
+          "duration_min": 97,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3923F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:2343:20260925",
+          "departure_time": "21:07:00",
+          "arrival_time": "22:45:00",
+          "duration_min": 98,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3923F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:2344:20261204",
+          "departure_time": "21:07:00",
+          "arrival_time": "22:45:00",
+          "duration_min": 98,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN3923F1187_F:TER:FR:Line::13DADBDA-4FB1-4AA3-8DAB-60E24EF4AAFF::87547000:87696005:6:2344:20261211",
+          "departure_time": "21:07:00",
+          "arrival_time": "22:45:00",
+          "duration_min": 98,
+          "days": []
+        }
+      ]
+    },
+    {
+      "id": "paris-lyon-part-dieu",
+      "name": "Paris (Gare de Lyon) → Lyon Part-Dieu",
+      "shape": [
+        [
+          48.844945,
+          2.373481
+        ],
+        [
+          48.197856,
+          3.267833
+        ],
+        [
+          47.973855,
+          3.392997
+        ],
+        [
+          47.960998,
+          3.513191
+        ],
+        [
+          47.981058,
+          3.731036
+        ],
+        [
+          47.85938,
+          3.97355
+        ],
+        [
+          47.729307,
+          4.211709
+        ],
+        [
+          47.618741,
+          4.336212
+        ],
+        [
+          47.543054,
+          4.462602
+        ],
+        [
+          47.323411,
+          5.027256
+        ],
+        [
+          47.023014,
+          4.848423
+        ],
+        [
+          46.907424,
+          4.749613
+        ],
+        [
+          46.781622,
+          4.843479
+        ],
+        [
+          46.566724,
+          4.906562
+        ],
+        [
+          46.302572,
+          4.824887
+        ],
+        [
+          46.111952,
+          4.729011
+        ],
+        [
+          45.984482,
+          4.720798
+        ],
+        [
+          45.888431,
+          4.804206
+        ],
+        [
+          45.760596,
+          4.859409
+        ]
+      ],
+      "segments": [
+        {
+          "start": {
+            "lat": 48.844945,
+            "lon": 2.373481
+          },
+          "end": {
+            "lat": 48.197856,
+            "lon": 3.267833
+          },
+          "midpoint": {
+            "lat": 48.5214005,
+            "lon": 2.8206569999999997
+          },
+          "bearing": 137.19228286690287
+        },
+        {
+          "start": {
+            "lat": 48.197856,
+            "lon": 3.267833
+          },
+          "end": {
+            "lat": 47.973855,
+            "lon": 3.392997
+          },
+          "midpoint": {
+            "lat": 48.0858555,
+            "lon": 3.330415
+          },
+          "bearing": 159.48459931056675
+        },
+        {
+          "start": {
+            "lat": 47.973855,
+            "lon": 3.392997
+          },
+          "end": {
+            "lat": 47.960998,
+            "lon": 3.513191
+          },
+          "midpoint": {
+            "lat": 47.9674265,
+            "lon": 3.453094
+          },
+          "bearing": 99.03230662502301
+        },
+        {
+          "start": {
+            "lat": 47.960998,
+            "lon": 3.513191
+          },
+          "end": {
+            "lat": 47.981058,
+            "lon": 3.731036
+          },
+          "midpoint": {
+            "lat": 47.971028,
+            "lon": 3.6221135
+          },
+          "bearing": 82.08778148216095
+        },
+        {
+          "start": {
+            "lat": 47.981058,
+            "lon": 3.731036
+          },
+          "end": {
+            "lat": 47.85938,
+            "lon": 3.97355
+          },
+          "midpoint": {
+            "lat": 47.920219,
+            "lon": 3.852293
+          },
+          "bearing": 126.7312567101344
+        },
+        {
+          "start": {
+            "lat": 47.85938,
+            "lon": 3.97355
+          },
+          "end": {
+            "lat": 47.729307,
+            "lon": 4.211709
+          },
+          "midpoint": {
+            "lat": 47.7943435,
+            "lon": 4.0926295
+          },
+          "bearing": 129.0224489427485
+        },
+        {
+          "start": {
+            "lat": 47.729307,
+            "lon": 4.211709
+          },
+          "end": {
+            "lat": 47.618741,
+            "lon": 4.336212
+          },
+          "midpoint": {
+            "lat": 47.674024,
+            "lon": 4.273960499999999
+          },
+          "bearing": 142.7836758669382
+        },
+        {
+          "start": {
+            "lat": 47.618741,
+            "lon": 4.336212
+          },
+          "end": {
+            "lat": 47.543054,
+            "lon": 4.462602
+          },
+          "midpoint": {
+            "lat": 47.5808975,
+            "lon": 4.399407
+          },
+          "bearing": 131.55070732588615
+        },
+        {
+          "start": {
+            "lat": 47.543054,
+            "lon": 4.462602
+          },
+          "end": {
+            "lat": 47.323411,
+            "lon": 5.027256
+          },
+          "midpoint": {
+            "lat": 47.4332325,
+            "lon": 4.744929000000001
+          },
+          "bearing": 119.69258506635231
+        },
+        {
+          "start": {
+            "lat": 47.323411,
+            "lon": 5.027256
+          },
+          "end": {
+            "lat": 47.023014,
+            "lon": 4.848423
+          },
+          "midpoint": {
+            "lat": 47.173212500000005,
+            "lon": 4.937839500000001
+          },
+          "bearing": 202.09833789366542
+        },
+        {
+          "start": {
+            "lat": 47.023014,
+            "lon": 4.848423
+          },
+          "end": {
+            "lat": 46.907424,
+            "lon": 4.749613
+          },
+          "midpoint": {
+            "lat": 46.965219000000005,
+            "lon": 4.799018
+          },
+          "bearing": 210.29426588015673
+        },
+        {
+          "start": {
+            "lat": 46.907424,
+            "lon": 4.749613
+          },
+          "end": {
+            "lat": 46.781622,
+            "lon": 4.843479
+          },
+          "midpoint": {
+            "lat": 46.844522999999995,
+            "lon": 4.796546
+          },
+          "bearing": 152.92845510607742
+        },
+        {
+          "start": {
+            "lat": 46.781622,
+            "lon": 4.843479
+          },
+          "end": {
+            "lat": 46.566724,
+            "lon": 4.906562
+          },
+          "midpoint": {
+            "lat": 46.674172999999996,
+            "lon": 4.8750205
+          },
+          "bearing": 168.5890552679407
+        },
+        {
+          "start": {
+            "lat": 46.566724,
+            "lon": 4.906562
+          },
+          "end": {
+            "lat": 46.302572,
+            "lon": 4.824887
+          },
+          "midpoint": {
+            "lat": 46.434647999999996,
+            "lon": 4.865724500000001
+          },
+          "bearing": 192.05899759084699
+        },
+        {
+          "start": {
+            "lat": 46.302572,
+            "lon": 4.824887
+          },
+          "end": {
+            "lat": 46.111952,
+            "lon": 4.729011
+          },
+          "midpoint": {
+            "lat": 46.207262,
+            "lon": 4.776949
+          },
+          "bearing": 199.22663839505074
+        },
+        {
+          "start": {
+            "lat": 46.111952,
+            "lon": 4.729011
+          },
+          "end": {
+            "lat": 45.984482,
+            "lon": 4.720798
+          },
+          "midpoint": {
+            "lat": 46.048217,
+            "lon": 4.7249045
+          },
+          "bearing": 182.56342706153583
+        },
+        {
+          "start": {
+            "lat": 45.984482,
+            "lon": 4.720798
+          },
+          "end": {
+            "lat": 45.888431,
+            "lon": 4.804206
+          },
+          "midpoint": {
+            "lat": 45.9364565,
+            "lon": 4.762502
+          },
+          "bearing": 148.84164770863345
+        },
+        {
+          "start": {
+            "lat": 45.888431,
+            "lon": 4.804206
+          },
+          "end": {
+            "lat": 45.760596,
+            "lon": 4.859409
+          },
+          "midpoint": {
+            "lat": 45.824513499999995,
+            "lon": 4.8318075
+          },
+          "bearing": 163.23237701074027
+        }
+      ],
+      "geometry_source": "stop_times+stops",
+      "trips": [
+        {
+          "trip_id": "OCESN6641F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:834:20261201",
+          "departure_time": "06:20:00",
+          "arrival_time": "08:22:00",
+          "duration_min": 122,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6641F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:834:20261211",
+          "departure_time": "06:20:00",
+          "arrival_time": "08:22:00",
+          "duration_min": 122,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6603F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:910:20261031",
+          "departure_time": "07:00:00",
+          "arrival_time": "08:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6603F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:910:20261201",
+          "departure_time": "07:00:00",
+          "arrival_time": "08:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6603F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:910:20261212",
+          "departure_time": "07:00:00",
+          "arrival_time": "08:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6603F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:911:20261127",
+          "departure_time": "07:00:00",
+          "arrival_time": "08:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6603F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:911:20261211",
+          "departure_time": "07:00:00",
+          "arrival_time": "08:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6643F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:936:20260904",
+          "departure_time": "07:26:00",
+          "arrival_time": "09:22:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6643F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:936:20261201",
+          "departure_time": "07:26:00",
+          "arrival_time": "09:22:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6643F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:936:20261211",
+          "departure_time": "07:26:00",
+          "arrival_time": "09:22:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17769F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1244:20260904",
+          "departure_time": "07:34:00",
+          "arrival_time": "12:44:00",
+          "duration_min": 310,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17769F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1244:20260925",
+          "departure_time": "07:34:00",
+          "arrival_time": "12:44:00",
+          "duration_min": 310,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17769F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1244:20261002",
+          "departure_time": "07:34:00",
+          "arrival_time": "12:44:00",
+          "duration_min": 310,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17769F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1244:20261022",
+          "departure_time": "07:34:00",
+          "arrival_time": "12:44:00",
+          "duration_min": 310,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17769F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1244:20261120",
+          "departure_time": "07:34:00",
+          "arrival_time": "12:44:00",
+          "duration_min": 310,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17769F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1244:20261127",
+          "departure_time": "07:34:00",
+          "arrival_time": "12:44:00",
+          "duration_min": 310,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17769F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1244:20261204",
+          "departure_time": "07:34:00",
+          "arrival_time": "12:44:00",
+          "duration_min": 310,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17769F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1244:20261206",
+          "departure_time": "07:34:00",
+          "arrival_time": "12:44:00",
+          "duration_min": 310,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17769F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1244:20261211",
+          "departure_time": "07:34:00",
+          "arrival_time": "12:44:00",
+          "duration_min": 310,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17769F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1244:20261129",
+          "departure_time": "07:35:00",
+          "arrival_time": "12:44:00",
+          "duration_min": 309,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6605F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1010:20261114",
+          "departure_time": "07:52:00",
+          "arrival_time": "09:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6605F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1010:20261129",
+          "departure_time": "07:52:00",
+          "arrival_time": "09:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6605F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1010:20261212",
+          "departure_time": "07:52:00",
+          "arrival_time": "09:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6681F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87722025:4:1010:20261017",
+          "departure_time": "07:52:00",
+          "arrival_time": "09:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6681F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:4:1046:20261114",
+          "departure_time": "07:52:00",
+          "arrival_time": "09:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6681F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:4:1048:20260904",
+          "departure_time": "07:52:00",
+          "arrival_time": "09:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6681F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:4:1048:20261201",
+          "departure_time": "07:52:00",
+          "arrival_time": "09:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6681F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:4:1048:20261211",
+          "departure_time": "07:52:00",
+          "arrival_time": "09:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6681F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:4:1049:20261031",
+          "departure_time": "07:52:00",
+          "arrival_time": "09:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6681F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:4:1049:20261128",
+          "departure_time": "07:52:00",
+          "arrival_time": "09:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6681F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:4:1049:20261212",
+          "departure_time": "07:52:00",
+          "arrival_time": "09:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6607F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1110:20260904",
+          "departure_time": "09:00:00",
+          "arrival_time": "10:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6607F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1110:20261031",
+          "departure_time": "09:00:00",
+          "arrival_time": "10:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6607F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1110:20261201",
+          "departure_time": "09:00:00",
+          "arrival_time": "10:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6607F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1110:20261212",
+          "departure_time": "09:00:00",
+          "arrival_time": "10:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17771F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1444:20261206",
+          "departure_time": "09:22:00",
+          "arrival_time": "14:44:00",
+          "duration_min": 322,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17771F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1444:20261129",
+          "departure_time": "09:25:00",
+          "arrival_time": "14:44:00",
+          "duration_min": 319,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6609F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1210:20260903",
+          "departure_time": "10:00:00",
+          "arrival_time": "11:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6609F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1210:20261031",
+          "departure_time": "10:00:00",
+          "arrival_time": "11:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6609F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1210:20261101",
+          "departure_time": "10:00:00",
+          "arrival_time": "11:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6609F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1210:20261201",
+          "departure_time": "10:00:00",
+          "arrival_time": "11:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6609F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1210:20261212",
+          "departure_time": "10:00:00",
+          "arrival_time": "11:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6611F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1310:20261031",
+          "departure_time": "11:00:00",
+          "arrival_time": "12:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6611F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1310:20261101",
+          "departure_time": "11:00:00",
+          "arrival_time": "12:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6611F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1310:20261201",
+          "departure_time": "11:00:00",
+          "arrival_time": "12:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6611F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1310:20261212",
+          "departure_time": "11:00:00",
+          "arrival_time": "12:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17773F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1644:20261206",
+          "departure_time": "11:34:00",
+          "arrival_time": "16:44:00",
+          "duration_min": 310,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17773F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1644:20261129",
+          "departure_time": "11:35:00",
+          "arrival_time": "16:44:00",
+          "duration_min": 309,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6613F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1410:20261028",
+          "departure_time": "11:49:00",
+          "arrival_time": "13:56:00",
+          "duration_min": 127,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6613F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1410:20261029",
+          "departure_time": "11:49:00",
+          "arrival_time": "13:56:00",
+          "duration_min": 127,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6613F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1410:20260904",
+          "departure_time": "11:52:00",
+          "arrival_time": "13:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6613F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1410:20261031",
+          "departure_time": "11:52:00",
+          "arrival_time": "13:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6613F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1410:20261101",
+          "departure_time": "11:52:00",
+          "arrival_time": "13:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6613F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1410:20261201",
+          "departure_time": "11:52:00",
+          "arrival_time": "13:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6613F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1410:20261212",
+          "departure_time": "11:52:00",
+          "arrival_time": "13:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN7803F1187_F:OGO:FR:Line::7FADFAB2-C52C-4C0F-A4AF-8E15C7C8C9F8::87686006:87722025:3:1440:20261212",
+          "departure_time": "12:26:00",
+          "arrival_time": "14:22:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6615F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1510:20261026",
+          "departure_time": "12:50:00",
+          "arrival_time": "14:56:00",
+          "duration_min": 126,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6615F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1510:20261127",
+          "departure_time": "12:50:00",
+          "arrival_time": "14:56:00",
+          "duration_min": 126,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6685F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:1548:20261127",
+          "departure_time": "12:50:00",
+          "arrival_time": "14:56:00",
+          "duration_min": 126,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6615F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1510:20260904",
+          "departure_time": "12:52:00",
+          "arrival_time": "14:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6615F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1510:20261021",
+          "departure_time": "12:52:00",
+          "arrival_time": "14:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6615F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1510:20261024",
+          "departure_time": "12:52:00",
+          "arrival_time": "14:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6615F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1510:20261031",
+          "departure_time": "12:52:00",
+          "arrival_time": "14:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6615F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1510:20261201",
+          "departure_time": "12:52:00",
+          "arrival_time": "14:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6615F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1510:20261212",
+          "departure_time": "12:52:00",
+          "arrival_time": "14:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6685F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87722025:3:1510:20261017",
+          "departure_time": "12:52:00",
+          "arrival_time": "14:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6685F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:1548:20261031",
+          "departure_time": "12:52:00",
+          "arrival_time": "14:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6685F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:1548:20261201",
+          "departure_time": "12:52:00",
+          "arrival_time": "14:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6685F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:1548:20261212",
+          "departure_time": "12:52:00",
+          "arrival_time": "14:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6615F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1510:20261114",
+          "departure_time": "13:02:00",
+          "arrival_time": "14:55:00",
+          "duration_min": 113,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6615F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1510:20261115",
+          "departure_time": "13:02:00",
+          "arrival_time": "14:56:00",
+          "duration_min": 114,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6685F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:1546:20261115",
+          "departure_time": "13:02:00",
+          "arrival_time": "14:56:00",
+          "duration_min": 114,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6685F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:1547:20261114",
+          "departure_time": "13:02:00",
+          "arrival_time": "14:55:00",
+          "duration_min": 113,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17775F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1843:20261206",
+          "departure_time": "13:34:00",
+          "arrival_time": "18:43:00",
+          "duration_min": 309,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17775F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1844:20261205",
+          "departure_time": "13:34:00",
+          "arrival_time": "18:44:00",
+          "duration_min": 310,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17775F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1843:20261129",
+          "departure_time": "13:35:00",
+          "arrival_time": "18:43:00",
+          "duration_min": 308,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17775F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:1844:20261128",
+          "departure_time": "13:35:00",
+          "arrival_time": "18:44:00",
+          "duration_min": 309,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6617F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1610:20261127",
+          "departure_time": "13:49:00",
+          "arrival_time": "15:56:00",
+          "duration_min": 127,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6617F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1610:20260930",
+          "departure_time": "13:50:00",
+          "arrival_time": "15:56:00",
+          "duration_min": 126,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6617F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1610:20261117",
+          "departure_time": "13:50:00",
+          "arrival_time": "15:56:00",
+          "duration_min": 126,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6617F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1610:20261017",
+          "departure_time": "13:52:00",
+          "arrival_time": "15:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6617F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1610:20261018",
+          "departure_time": "13:52:00",
+          "arrival_time": "15:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6617F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1610:20261031",
+          "departure_time": "13:52:00",
+          "arrival_time": "15:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6617F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1610:20261201",
+          "departure_time": "13:52:00",
+          "arrival_time": "15:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6617F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:1610:20261212",
+          "departure_time": "13:52:00",
+          "arrival_time": "15:56:00",
+          "duration_min": 124,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6619F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1710:20260903",
+          "departure_time": "15:00:00",
+          "arrival_time": "16:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6619F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1710:20261030",
+          "departure_time": "15:00:00",
+          "arrival_time": "16:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6619F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1710:20261101",
+          "departure_time": "15:00:00",
+          "arrival_time": "16:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6619F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1710:20261129",
+          "departure_time": "15:00:00",
+          "arrival_time": "16:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6619F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1710:20261201",
+          "departure_time": "15:00:00",
+          "arrival_time": "16:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6619F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1710:20261206",
+          "departure_time": "15:00:00",
+          "arrival_time": "16:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6619F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1710:20261212",
+          "departure_time": "15:00:00",
+          "arrival_time": "16:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17777F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:2044:20261129",
+          "departure_time": "15:32:00",
+          "arrival_time": "20:44:00",
+          "duration_min": 312,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17777F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:2044:20261206",
+          "departure_time": "15:32:00",
+          "arrival_time": "20:44:00",
+          "duration_min": 312,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17777F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87723197:19:2044:20261125",
+          "departure_time": "15:34:00",
+          "arrival_time": "20:44:00",
+          "duration_min": 310,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6621F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:5:1814:20261011",
+          "departure_time": "15:52:00",
+          "arrival_time": "18:00:00",
+          "duration_min": 128,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6621F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:5:1814:20261016",
+          "departure_time": "15:52:00",
+          "arrival_time": "18:00:00",
+          "duration_min": 128,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6621F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:5:1814:20261017",
+          "departure_time": "15:52:00",
+          "arrival_time": "18:00:00",
+          "duration_min": 128,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6621F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:5:1814:20261018",
+          "departure_time": "15:52:00",
+          "arrival_time": "18:00:00",
+          "duration_min": 128,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6621F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:5:1814:20261031",
+          "departure_time": "15:52:00",
+          "arrival_time": "18:00:00",
+          "duration_min": 128,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6621F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:5:1814:20261101",
+          "departure_time": "15:52:00",
+          "arrival_time": "18:00:00",
+          "duration_min": 128,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6621F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:5:1814:20261129",
+          "departure_time": "15:52:00",
+          "arrival_time": "18:00:00",
+          "duration_min": 128,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6621F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:5:1814:20261201",
+          "departure_time": "15:52:00",
+          "arrival_time": "18:00:00",
+          "duration_min": 128,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6621F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:5:1814:20261206",
+          "departure_time": "15:52:00",
+          "arrival_time": "18:00:00",
+          "duration_min": 128,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6621F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:5:1814:20261212",
+          "departure_time": "15:52:00",
+          "arrival_time": "18:00:00",
+          "duration_min": 128,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6623F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1910:20261101",
+          "departure_time": "17:00:00",
+          "arrival_time": "18:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6623F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1910:20261129",
+          "departure_time": "17:00:00",
+          "arrival_time": "18:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6623F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1910:20261201",
+          "departure_time": "17:00:00",
+          "arrival_time": "18:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6623F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1910:20261206",
+          "departure_time": "17:00:00",
+          "arrival_time": "18:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6623F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1910:20261212",
+          "departure_time": "17:00:00",
+          "arrival_time": "18:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6687F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87722025:3:1910:20261017",
+          "departure_time": "17:00:00",
+          "arrival_time": "18:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6687F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:1948:20261129",
+          "departure_time": "17:00:00",
+          "arrival_time": "18:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6687F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:1948:20261201",
+          "departure_time": "17:00:00",
+          "arrival_time": "18:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6687F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:1948:20261206",
+          "departure_time": "17:00:00",
+          "arrival_time": "18:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6687F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:1948:20261212",
+          "departure_time": "17:00:00",
+          "arrival_time": "18:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17779F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87722025:20:2300:20261206",
+          "departure_time": "17:26:00",
+          "arrival_time": "22:44:00",
+          "duration_min": 318,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6663F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1936:20261201",
+          "departure_time": "17:26:00",
+          "arrival_time": "19:22:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6663F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:1936:20261211",
+          "departure_time": "17:26:00",
+          "arrival_time": "19:22:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN17779F1187_F:TER:FR:Line::B10C45A0-C32C-4232-85F2-4BB81B810084::87686006:87722025:20:2300:20261129",
+          "departure_time": "17:27:00",
+          "arrival_time": "22:44:00",
+          "duration_min": 317,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6627F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:2010:20260903",
+          "departure_time": "17:52:00",
+          "arrival_time": "19:54:00",
+          "duration_min": 122,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6627F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:2010:20261101",
+          "departure_time": "17:52:00",
+          "arrival_time": "19:54:00",
+          "duration_min": 122,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6627F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:2010:20261129",
+          "departure_time": "17:52:00",
+          "arrival_time": "19:54:00",
+          "duration_min": 122,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6627F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:2010:20261201",
+          "departure_time": "17:52:00",
+          "arrival_time": "19:54:00",
+          "duration_min": 122,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6627F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:2010:20261206",
+          "departure_time": "17:52:00",
+          "arrival_time": "19:54:00",
+          "duration_min": 122,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6627F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:4:2010:20261212",
+          "departure_time": "17:52:00",
+          "arrival_time": "19:54:00",
+          "duration_min": 122,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6669F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:2036:20261127",
+          "departure_time": "18:26:00",
+          "arrival_time": "20:22:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6669F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:2036:20261201",
+          "departure_time": "18:26:00",
+          "arrival_time": "20:22:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6669F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:2036:20261210",
+          "departure_time": "18:26:00",
+          "arrival_time": "20:22:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6669F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:2036:20261211",
+          "departure_time": "18:26:00",
+          "arrival_time": "20:22:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6665F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:2049:20261129",
+          "departure_time": "18:42:00",
+          "arrival_time": "20:35:00",
+          "duration_min": 113,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6665F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:2049:20261206",
+          "departure_time": "18:42:00",
+          "arrival_time": "20:35:00",
+          "duration_min": 113,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6665F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:2050:20261018",
+          "departure_time": "18:42:00",
+          "arrival_time": "20:37:00",
+          "duration_min": 115,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6629F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:2119:20261128",
+          "departure_time": "19:00:00",
+          "arrival_time": "20:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6629F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:3:2119:20261212",
+          "departure_time": "19:00:00",
+          "arrival_time": "20:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6689F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87722025:3:2116:20261017",
+          "departure_time": "19:00:00",
+          "arrival_time": "20:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6689F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:2148:20260904",
+          "departure_time": "19:00:00",
+          "arrival_time": "20:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6689F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:2148:20261129",
+          "departure_time": "19:00:00",
+          "arrival_time": "20:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6689F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:2148:20261201",
+          "departure_time": "19:00:00",
+          "arrival_time": "20:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6689F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:2148:20261204",
+          "departure_time": "19:00:00",
+          "arrival_time": "20:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6689F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:2148:20261206",
+          "departure_time": "19:00:00",
+          "arrival_time": "20:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6689F1187_F:OUI:FR:Line::7B14F95D-1FA0-4908-B4C6-18EB63888CD7::87686006:87726000:3:2148:20261212",
+          "departure_time": "19:00:00",
+          "arrival_time": "20:56:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN7805F1187_F:OGO:FR:Line::7FADFAB2-C52C-4C0F-A4AF-8E15C7C8C9F8::87686006:87722025:3:2140:20261212",
+          "departure_time": "19:26:00",
+          "arrival_time": "21:22:00",
+          "duration_min": 116,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6633F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:5:2324:20260903",
+          "departure_time": "21:00:00",
+          "arrival_time": "23:10:00",
+          "duration_min": 130,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6633F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:5:2324:20261129",
+          "departure_time": "21:00:00",
+          "arrival_time": "23:10:00",
+          "duration_min": 130,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6633F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:5:2324:20261201",
+          "departure_time": "21:00:00",
+          "arrival_time": "23:10:00",
+          "duration_min": 130,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6633F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:5:2324:20261206",
+          "departure_time": "21:00:00",
+          "arrival_time": "23:10:00",
+          "duration_min": 130,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6633F1187_F:OUI:FR:Line::5B76AFB9-244D-4AC6-9720-8142DC7F6A91::87686006:87722025:5:2324:20261211",
+          "departure_time": "21:00:00",
+          "arrival_time": "23:10:00",
+          "duration_min": 130,
+          "days": []
+        }
+      ]
+    },
+    {
+      "id": "paris-lyon-marseille",
+      "name": "Paris (Gare de Lyon) → Marseille St-Charles",
+      "shape": [
+        [
+          48.844945,
+          2.373481
+        ],
+        [
+          45.721109,
+          5.074969
+        ],
+        [
+          44.928081,
+          4.893288
+        ],
+        [
+          44.558936,
+          4.744726
+        ],
+        [
+          44.137485,
+          4.820058
+        ],
+        [
+          43.941923,
+          4.805269
+        ],
+        [
+          43.684863,
+          4.632105
+        ]
+      ],
+      "segments": [
+        {
+          "start": {
+            "lat": 48.844945,
+            "lon": 2.373481
+          },
+          "end": {
+            "lat": 45.721109,
+            "lon": 5.074969
+          },
+          "midpoint": {
+            "lat": 47.283027000000004,
+            "lon": 3.724225
+          },
+          "bearing": 148.60098035783847
+        },
+        {
+          "start": {
+            "lat": 45.721109,
+            "lon": 5.074969
+          },
+          "end": {
+            "lat": 44.928081,
+            "lon": 4.893288
+          },
+          "midpoint": {
+            "lat": 45.324595,
+            "lon": 4.984128500000001
+          },
+          "bearing": 189.2150720273507
+        },
+        {
+          "start": {
+            "lat": 44.928081,
+            "lon": 4.893288
+          },
+          "end": {
+            "lat": 44.558936,
+            "lon": 4.744726
+          },
+          "midpoint": {
+            "lat": 44.743508500000004,
+            "lon": 4.819007
+          },
+          "bearing": 196.00466613972023
+        },
+        {
+          "start": {
+            "lat": 44.558936,
+            "lon": 4.744726
+          },
+          "end": {
+            "lat": 44.137485,
+            "lon": 4.820058
+          },
+          "midpoint": {
+            "lat": 44.3482105,
+            "lon": 4.782392
+          },
+          "bearing": 172.68954957901474
+        },
+        {
+          "start": {
+            "lat": 44.137485,
+            "lon": 4.820058
+          },
+          "end": {
+            "lat": 43.941923,
+            "lon": 4.805269
+          },
+          "midpoint": {
+            "lat": 44.039704,
+            "lon": 4.8126635
+          },
+          "bearing": 183.11680779451365
+        },
+        {
+          "start": {
+            "lat": 43.941923,
+            "lon": 4.805269
+          },
+          "end": {
+            "lat": 43.684863,
+            "lon": 4.632105
+          },
+          "midpoint": {
+            "lat": 43.813393000000005,
+            "lon": 4.718687
+          },
+          "bearing": 205.98400441383572
+        }
+      ],
+      "geometry_source": "stop_times+stops",
+      "trips": [
+        {
+          "trip_id": "OCESN6191F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:8:1142:20260930",
+          "departure_time": "07:14:00",
+          "arrival_time": "11:15:00",
+          "duration_min": 241,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6191F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:8:1142:20261111",
+          "departure_time": "07:14:00",
+          "arrival_time": "11:16:00",
+          "duration_min": 242,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6193F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:7:1630:20261023",
+          "departure_time": "12:14:00",
+          "arrival_time": "15:58:00",
+          "duration_min": 224,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6193F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:7:1630:20261030",
+          "departure_time": "12:14:00",
+          "arrival_time": "15:58:00",
+          "duration_min": 224,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6193F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:8:1639:20261025",
+          "departure_time": "12:14:00",
+          "arrival_time": "16:16:00",
+          "duration_min": 242,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6193F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:8:1639:20261129",
+          "departure_time": "12:14:00",
+          "arrival_time": "16:16:00",
+          "duration_min": 242,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6193F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:8:1639:20261206",
+          "departure_time": "12:14:00",
+          "arrival_time": "16:16:00",
+          "duration_min": 242,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6193F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:8:1640:20261031",
+          "departure_time": "12:14:00",
+          "arrival_time": "16:15:00",
+          "duration_min": 241,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6193F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:8:1640:20261115",
+          "departure_time": "12:14:00",
+          "arrival_time": "16:16:00",
+          "duration_min": 242,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6193F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:8:1640:20261130",
+          "departure_time": "12:14:00",
+          "arrival_time": "16:15:00",
+          "duration_min": 241,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6193F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:8:1640:20261212",
+          "departure_time": "12:14:00",
+          "arrival_time": "16:15:00",
+          "duration_min": 241,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6195F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:8:2143:20261011",
+          "departure_time": "17:11:00",
+          "arrival_time": "21:19:00",
+          "duration_min": 248,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6195F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:8:2143:20261018",
+          "departure_time": "17:14:00",
+          "arrival_time": "21:19:00",
+          "duration_min": 245,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6195F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:8:2143:20261019",
+          "departure_time": "17:14:00",
+          "arrival_time": "21:19:00",
+          "duration_min": 245,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6195F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:8:2143:20261115",
+          "departure_time": "17:14:00",
+          "arrival_time": "21:19:00",
+          "duration_min": 245,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6195F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:8:2143:20261201",
+          "departure_time": "17:14:00",
+          "arrival_time": "21:19:00",
+          "duration_min": 245,
+          "days": []
+        },
+        {
+          "trip_id": "OCESN6195F1187_F:OUI:FR:Line::1C9BA26B-7D92-4D0E-86EF-895FB80E10BF::87686006:87753004:8:2143:20261211",
+          "departure_time": "17:14:00",
+          "arrival_time": "21:19:00",
+          "duration_min": 245,
+          "days": []
+        }
+      ]
+    }
+  ]
+}
