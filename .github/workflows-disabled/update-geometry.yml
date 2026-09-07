@@ -1,0 +1,36 @@
+name: Mise à jour des tracés RFN
+
+on:
+  schedule:
+    - cron: '0 2 * * 0'   # chaque dimanche à 2h UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/build_geometry.py'
+      - '.github/workflows/update-geometry.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-geometry:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dépendances
+        run: pip install -r scripts/requirements.txt
+
+      - name: Générer les tracés ferroviaires nationaux
+        run: python scripts/build_geometry.py
+
+      - name: Committer les tracés
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Mise à jour hebdomadaire des tracés RFN"
+          file_pattern: data/segments
